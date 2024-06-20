@@ -1,0 +1,14 @@
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\7th lab\2-sided array\bin\Debug\net8.0\2-sided array.exe
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\7th lab\2-sided array\bin\Debug\net8.0\2-sided array.deps.json
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\7th lab\2-sided array\bin\Debug\net8.0\2-sided array.runtimeconfig.json
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\7th lab\2-sided array\bin\Debug\net8.0\2-sided array.dll
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\7th lab\2-sided array\bin\Debug\net8.0\2-sided array.pdb
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\7th lab\2-sided array\obj\Debug\net8.0\2-sided array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\7th lab\2-sided array\obj\Debug\net8.0\2-sided array.AssemblyInfoInputs.cache
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\7th lab\2-sided array\obj\Debug\net8.0\2-sided array.AssemblyInfo.cs
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\7th lab\2-sided array\obj\Debug\net8.0\2-sided array.csproj.CoreCompileInputs.cache
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\7th lab\2-sided array\obj\Debug\net8.0\2-sided array.dll
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\7th lab\2-sided array\obj\Debug\net8.0\refint\2-sided array.dll
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\7th lab\2-sided array\obj\Debug\net8.0\2-sided array.pdb
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\7th lab\2-sided array\obj\Debug\net8.0\2-sided array.genruntimeconfig.cache
+C:\Users\op101\OneDrive\Desktop\OOP 2nd semester\7th lab\2-sided array\obj\Debug\net8.0\ref\2-sided array.dll
